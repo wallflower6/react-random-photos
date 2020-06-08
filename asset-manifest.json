@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-random-photos/static/css/main.59087c3d.chunk.css",
+    "main.js": "/react-random-photos/static/js/main.f34848e9.chunk.js",
+    "main.js.map": "/react-random-photos/static/js/main.f34848e9.chunk.js.map",
+    "runtime-main.js": "/react-random-photos/static/js/runtime-main.77cba927.js",
+    "runtime-main.js.map": "/react-random-photos/static/js/runtime-main.77cba927.js.map",
+    "static/js/2.3da103c6.chunk.js": "/react-random-photos/static/js/2.3da103c6.chunk.js",
+    "static/js/2.3da103c6.chunk.js.map": "/react-random-photos/static/js/2.3da103c6.chunk.js.map",
+    "index.html": "/react-random-photos/index.html",
+    "precache-manifest.f6d9cd717a13b9eb9970561720a0abc9.js": "/react-random-photos/precache-manifest.f6d9cd717a13b9eb9970561720a0abc9.js",
+    "service-worker.js": "/react-random-photos/service-worker.js",
+    "static/css/main.59087c3d.chunk.css.map": "/react-random-photos/static/css/main.59087c3d.chunk.css.map",
+    "static/js/2.3da103c6.chunk.js.LICENSE.txt": "/react-random-photos/static/js/2.3da103c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77cba927.js",
+    "static/js/2.3da103c6.chunk.js",
+    "static/css/main.59087c3d.chunk.css",
+    "static/js/main.f34848e9.chunk.js"
+  ]
+}
