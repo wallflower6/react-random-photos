@@ -9,13 +9,13 @@
 }
 
 #get-button {
+    font-family: Roboto;
     display: block;
     text-align: center;
     margin: auto;
     margin-top: 1%;
     border-radius: 2em;
     padding: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-shadow: 2px 2px 2px 2px #888888;
 }
 
